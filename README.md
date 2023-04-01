@@ -1,6 +1,6 @@
 ### Hi there EugeneVolob 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YvX3ZZ5yfXdChkuRne/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/YvX3ZZ5yfXdChkuRne/giphy.gif" width="150"/>
 </div>
 <!--
 **EugeneVolob/EugeneVolob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
